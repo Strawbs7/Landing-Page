@@ -1,1 +1,1 @@
-Lading-Page project Odin
+Landing-Page project Odin
